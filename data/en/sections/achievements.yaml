@@ -1,0 +1,30 @@
+# section information
+section:
+  name: Certificate Badges
+  id: achievements
+  enable: false
+  weight: 5
+  showOnNavbar: false
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your achievements achievements
+achievements:
+- title: Okta Certified Administrator
+  image: images/achievements/okta-admin.png
+  summary: Best presenter in the 2020 XYZ conference.
+- title: Okta Certified Professional
+  image: images/achievements/okta-pro.png
+  summary: Champion in cycling inter-city cycling championship 2020.
+- title: AWS Certified Solutions Architect Associate 
+  image: images/achievements/aws-solution.png
+  summary: Received Bachelor of Science (B.Sc.) in Computer Science and Engineer from XYZ University.
+- title: AWS Certified Cloud Practioner
+  image: images/achievements/aws-cloud.png
+  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus architecto minus facere vero?
+- title: AWS Certified Cloud Practioner
+  image: images/achievements/woman-winner.jpg
+  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus architecto minus facere vero?
+- title: AWS Certified Cloud Practioner
+  image: images/achievements/woman-winner.jpg
+  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus architecto minus facere vero?  

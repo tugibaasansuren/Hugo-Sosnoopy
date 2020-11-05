@@ -1,0 +1,79 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Senior IT Engineer/Project Manager
+# your company information
+company:
+  name: Tally.
+  url: "https://www.meettally.com"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/nothere.pdf"
+
+# a summary about you
+summary: 'I am a passionate IT engineer with 5+ years of working in Start-up to Enterprise infrastrucre level experience. Currently, determined to develop project management skill & tool set manage project from scartch to delivered.
+  '
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "tugi@sosnoopy.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/tugibaasansuren"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/tugibaasansuren/"
+
+- name: Discord
+  icon: "fab fa-discord"
+  url: "https://discord.gg/NPVjWm5ECX"
+    
+- name: Instagram
+  icon: "fab fa-instagram"
+  url: "https://www.instagram.com/tugibaaska/"
+
+- name: Spotify
+  icon: "fab fa-spotify"
+  url: "https://open.spotify.com/user/tugi_b?si=COrSMlthSwOzumSbopWpfg"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Leadership
+  percentage: 75
+  color: blue
+- name: Team Work
+  percentage: 100
+  color: yellow
+- name: Communication
+  percentage: 100
+  color: pink
+- name: Hard Working
+  percentage: 100
+  color: green
+- name: Fast Learner
+  percentage: 100
+  color: sky
+- name: Problem Solving
+  percentage: 100
+  color: orange
+# you can also provide color code instead of pre-defined color name
+# - name: Example 1
+#   percentage: 75
+#   color: "#00adb5"
+# - name: Example 2
+#   percentage: 65
+#   color: "#8b8383"
