@@ -15,7 +15,7 @@ experiences:
     url: "https://www.meettally.com"
     location: San Francisco
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Hired as the first IT Engineer to design, build & implement internal IT infrastucture. As well as help the business achieving SOC-II compliance.
   positions:
   - designation: Senior IT Engineer
     start: Nov 2020
@@ -23,38 +23,38 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Set direction for IT strategy by empowering teams to achieve their best work
+    - Represent the IT organization as a stakeholder in cross-functional partnerships and fully manage vendor relationships, negotiations, and budgeting while upholding strong commitment to ensuring a security/compliance-first approach.
+    - Evaluate, maintain and improve existing code base to ensure that it is properly structured and utilize software engineering best practices
 
   - designation: IT Engineer
     start: October 2019
     end: November 2020
     responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - Operate as a technical expert on infrastructure projects pertaining to Storage, Virtual Machines, Systems Management, Cloud Services, Monitoring, File Serving, Capacity Planning, and DR.
+    - Troubleshoot, identify and research reported issues, and have the ability to provide recommendations by comparing advantages and disadvantages of various solutions
+    - Provide recommendations for improvement to team best practices and process
 
 - company:
     name: Funding Circle
     url: "https://www.fundingcircle.com"
     location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    overview: Funding Circle is a peer-to-peer lending marketplace that allows the public to lend money directly to small and medium-sized businesses.
   positions:
   - designation: IT Engineer
     start: May 2018
     end: October 2019
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Provide continuous review of internal IT infrastructure. Propose and implement enhancements that will improve performance, reliability, and scalability as we grow globally
+    - Support office expansion initiatives and travel as needed to global offices
+    - Perform day to day support and administration including installation, configuration, monitoring, documentation, and automation for all IT infrastructure
 
 - company:
     name: Zynga
     url: "https://www.zynga.com"
     location: San Francisco
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Zynga is a widely recognized company for mobile gaming. Famously known for their Farmville, Poker & Word with Friends.
   positions:
   - designation: IT Operations
     start: May 2016
@@ -64,13 +64,13 @@ experiences:
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
+    - Respond to all tactical support escalations
     - Lead backend team.
     
   - designation: IT Support
     start: February 2016
     end: May 2016
     responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - Own IT/Helpdesk support for our corporate, onsite, and remote teams, while prioritizing / maintaining lightning SLAs.
+    - Provide desktop support for hardware, software, network, A/V, system performance and security issues.
+    - Work with various teams across the company to improve our processes and tools.
