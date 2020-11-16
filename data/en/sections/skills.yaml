@@ -13,13 +13,13 @@ section:
 skills:
 - name: Atlassian Server/Cloud
   icon: "images/skills/atlassian.png"
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+  summary: "Built Atlassian Server (Jira, Confluence & Bitbucket) from ground up. Also migrated Jira & Confluence Server to Cloud infrastructure - experienced with workflow schemes & integrations."
+  url: "https://www.atlassian.com/software"
 
 - name: Okta
   icon: "images/skills/okta.png"
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
+  summary: "Experienced in complete implementation of Identity and Access Management along with RBAC method. 30+ apps SAML, Ping Federate & full provisioning integrated. Built with higly seamless secure login authentication using sign-on & MFA policy with device trust, behavioral and network detection."
+  url: "https://www.okta.com/"
 
 - name: Cloud Computing
   icon: "images/skills/cloud.png"
@@ -32,12 +32,12 @@ skills:
 
 - name: MDM 
   icon: "images/skills/jamf.jpg"
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
+  summary: "Process of monitoring, managing and securing mobile devices such as laptops, smartphones and tablets that are used in enterprises to access business-critical data. Experienced with Jamf, Intune, Kandji, & ManageEngine"
   url: "https://prometheus.io/"
 
 - name: Linux
   icon: "images/skills/linux.png"
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+  summary: "Using as the main(Ubuntu) operating system as well as experienced with Redhat, CentOS, Debian & Kali. Capable of writing bash/shell scripts."
 
 - name: Git
   icon: "images/skills/git.png"
@@ -46,10 +46,11 @@ skills:
 
 - name: Networking
   icon: "images/skills/network.png"
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+  summary: "Write and maintain network security policies and monitor compliance. Identify and recommend needed and optimal infrastructure improvements. Develop and administer disaster recovery plans.
+"
   url: "https://git-scm.com/"
   
 - name: Bash/Powershell/Python
   icon: "images/skills/c++.png"
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+  summary: "Know basic programming. Used for automation and problem solving."
   url: "https://git-scm.com/"
