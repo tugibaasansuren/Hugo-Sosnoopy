@@ -10,6 +10,16 @@ section:
 
 # Your experiences
 experiences:
+- company: 
+    name: Amplitude
+    url: "https://amplitude.com"
+    location: San Francisco
+    overview: Amplitude is a product analytics platform that helps businesses to track visitors. The platform uses behavioral reports to understand users' interactions with products and provides insights to accelerate work on a real-time basis.
+  positions:
+  - designation: Senior IT Engineer
+    start: Mar 2021
+    responsibilities:
+    
 - company:
     name: Tally
     url: "https://www.meettally.com"
@@ -19,6 +29,7 @@ experiences:
   positions:
   - designation: Senior IT Engineer
     start: Nov 2020
+    end: Mar 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
