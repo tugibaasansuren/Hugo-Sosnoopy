@@ -53,7 +53,7 @@ socialLinks:
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
 - name: Leadership
-  percentage: 75
+  percentage: 70
   color: blue
 - name: Team Work
   percentage: 100
