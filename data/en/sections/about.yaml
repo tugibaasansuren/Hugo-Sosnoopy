@@ -18,7 +18,7 @@ company:
 resume: "files/nothere.pdf"
 
 # a summary about you
-summary: 'I am a passionate IT engineer with 5+ years of working in Start-up to Enterprise infrastrucre level experience. Currently, determined to develop project management skill & tool set manage project from scartch to delivered.
+summary: 'I am a passionate IT Systems engineer with 5+ years of working in Start-up to Enterprise infrastrucre level experience. Currently, determined to develop project management skill & tool set manage project from scartch to delivered.
   '
 
 # your social links
@@ -61,7 +61,7 @@ softSkills:
 - name: Communication
   percentage: 100
   color: pink
-- name: Hard Working
+- name: Hard & Effective Working
   percentage: 100
   color: green
 - name: Fast Learner
